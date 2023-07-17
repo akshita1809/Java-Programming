@@ -14,3 +14,10 @@
 -Relational Operators
 -Logical Operators
 -Bitwise Operators
+  >bitwise &
+  >bitwise |
+  >bitwise not ~
+  >bitwise XOR ^
+  >bitwise right shift >>
+  >bitwise left shify<<
+  >unsigned right shift operators
