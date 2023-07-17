@@ -6,3 +6,8 @@
   >not op !
   >bitwise complement
 -assignment operators
+  > +=
+  > -=
+  > *=
+  > /=
+  > %=
