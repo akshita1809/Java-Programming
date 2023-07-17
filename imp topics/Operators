@@ -21,3 +21,5 @@
   >bitwise right shift >>
   >bitwise left shify<<
   >unsigned right shift operators
+-ternary operator
+-Instanceof Operator
