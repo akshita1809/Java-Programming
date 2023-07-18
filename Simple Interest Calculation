@@ -1,4 +1,4 @@
-import java.util.* ;
+import java.util.Scanner ; //importing scanner library
 import java.io.*; 
 class Solution {
 	
