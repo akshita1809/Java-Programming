@@ -10,6 +10,5 @@ public class AreaOfRectangle {
       breadth = sc.nextInt();
       area = length* breadth;
       System.out.println("Area of the rectangle is ::"+area);
-
    }
 }
