@@ -9,9 +9,7 @@ class Solution {
 		int principal = sc.nextInt();
 		double rate = sc.nextDouble();
 		int time = sc.nextInt();
-		
 		int si = (int)(principal * rate * time) / 100;
-		
 		System.out.println(si);
 		
 	}
