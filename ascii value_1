@@ -1,0 +1,31 @@
+import java.util.Scanner;  
+class UserInput  
+{  
+public static void main(String[] args)  {
+	Scanner sc= new Scanner(System.in);    //System.in is a standard input stream  
+	System.out.print("Enter character- ");  
+	char ch= next().charAt(0);   
+	}  
+}  
+public class AsciiValue {
+
+    public static void main(String[] args) {
+        int ascii = ch;
+        int castAscii = (int) ch;
+    }
+}
+class Solution {
+	
+	public static void main(String args[]) {
+		
+		if (ascii >= 97 && x <= 122) {
+			system.out.print("0");
+		}
+		else if (ascii >= 65 && x <= 90) {
+			system.out.print("1");
+		}
+		else if (ascii >= 48 && x <= 57) {
+			system.out.print("-1");
+		}
+}
+}
